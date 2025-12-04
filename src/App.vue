@@ -17,6 +17,11 @@ const handleClick = () => {
       >
         Click me
       </button>
+      <footer class="mt-8 pt-6 border-t-2 border-gray-200">
+        <p class="text-lg font-semibold text-gray-700">
+          Get in bitches we are going to therapy! 🚗💨
+        </p>
+      </footer>
     </div>
   </div>
 </template>
