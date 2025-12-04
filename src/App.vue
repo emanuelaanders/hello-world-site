@@ -5,9 +5,8 @@ const handleClick = () => {
 </script>
 
 <template>
-  <div class="min-h-screen flex items-center justify-center p-4 relative" style="background-image: url('https://images.unsplash.com/photo-1619566636857-3dc9cb4a1d5e?w=1600'); background-size: cover; background-position: center;">
-    <div class="absolute inset-0 bg-black bg-opacity-30"></div>
-    <div class="bg-white bg-opacity-95 rounded-2xl shadow-2xl p-8 max-w-md w-full text-center relative z-10">
+  <div class="min-h-screen flex items-center justify-center p-4" style="background: linear-gradient(135deg, #667eea 0%, #764ba2 25%, #f093fb 50%, #4facfe 75%, #00f2fe 100%);">
+    <div class="bg-white bg-opacity-90 rounded-2xl shadow-2xl p-8 max-w-md w-full text-center">
       <h1 class="text-4xl font-bold text-pink-300 mb-6">
         Hello World 💣
       </h1>
