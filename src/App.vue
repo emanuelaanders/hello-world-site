@@ -5,7 +5,7 @@ const handleClick = () => {
 </script>
 
 <template>
-  <div class="min-h-screen flex items-center justify-center p-4 relative" style="background-image: url('https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=1600'); background-size: cover; background-position: center;">
+  <div class="min-h-screen flex items-center justify-center p-4 relative" style="background-image: url('https://images.unsplash.com/photo-1619566636857-3dc9cb4a1d5e?w=1600'); background-size: cover; background-position: center;">
     <div class="absolute inset-0 bg-black bg-opacity-30"></div>
     <div class="bg-white bg-opacity-95 rounded-2xl shadow-2xl p-8 max-w-md w-full text-center relative z-10">
       <h1 class="text-4xl font-bold text-pink-300 mb-6">
