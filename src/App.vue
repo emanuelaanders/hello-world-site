@@ -7,8 +7,8 @@ const handleClick = () => {
 <template>
   <div class="min-h-screen bg-gradient-to-br from-blue-50 to-indigo-100 flex items-center justify-center p-4">
     <div class="bg-white rounded-2xl shadow-xl p-8 max-w-md w-full text-center">
-      <h1 class="text-4xl font-bold text-red-600 mb-6">
-        Hello World
+      <h1 class="text-4xl font-bold text-pink-300 mb-6">
+        Hello World 💣
       </h1>
       <button
         @click="handleClick"
