@@ -5,7 +5,7 @@ const handleClick = () => {
 </script>
 
 <template>
-  <div class="min-h-screen flex items-center justify-center p-4" style="background: #6C8EF5;">
+  <div class="min-h-screen flex items-center justify-center p-4" style="background: #DC2626;">
     <div class="bg-white bg-opacity-90 rounded-2xl shadow-2xl p-8 max-w-md w-full text-center">
       <h1 class="text-4xl font-bold text-pink-300 mb-6" style="-webkit-text-stroke: 2px orange; text-stroke: 2px orange;">
         Hello World 💣
