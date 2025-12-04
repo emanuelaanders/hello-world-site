@@ -12,7 +12,7 @@ const handleClick = () => {
       </h1>
       <button
         @click="handleClick"
-        class="bg-blue-600 hover:bg-blue-700 text-white font-semibold py-3 px-8 rounded-lg transition-colors duration-200 shadow-md hover:shadow-lg"
+        class="bg-gradient-to-b from-gray-300 via-gray-400 to-gray-500 hover:from-gray-400 hover:via-gray-500 hover:to-gray-600 text-gray-800 font-bold py-3 px-8 rounded-lg transition-all duration-200 shadow-lg hover:shadow-xl border border-gray-400"
       >
         Click me
       </button>
